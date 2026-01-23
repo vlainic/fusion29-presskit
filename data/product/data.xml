@@ -30,19 +30,19 @@
   <!-- ## General Information -->
 
   <!-- Begin with your product name, website, and miscellaneous information. -->
-  <title>My Super Game</title>
-  <website>http://pizzaburger.studio/mysupergame</website>
+  <title>Animal Times</title>
+  <website>https://store.steampowered.com/app/3915540/Animal_Times/</website>
 
   <!-- You can also add an URL to a request page for this product. A button will be displayed on the page. -->
   <press-copy-request>
-    http://pizzaburger.studio/mysupergame/request/
+    http://pizzaburger.studio/mysupergame/request/ <!--TO-DO: Add Keymailer link-->
   </press-copy-request>
 
   <!--
     If you have one or many publishers for this product, you can add them here.
 
     The `<based-in>` and `<website>` tags are optional.
-  -->
+  
   <partners>
     <partner>
       <type>Publisher</type>
@@ -55,11 +55,10 @@
       <title>Pizza Oven LLC</title>
     </partner>
   </partners>
-
+-->
   <!-- Add as many dates, platforms and prices as needed. -->
   <release-dates>
-    <release-date>04 Feb, 2016</release-date>
-    <release-date>10 Oct, 2016</release-date>
+    <release-date>Arpil 2026</release-date>
   </release-dates>
 
   <!--
@@ -69,19 +68,12 @@
   -->
   <platforms>
     <platform>
-      <name>PC / Mac</name>
-      <link>http://itch.io/</link>
-    </platform>
-    <platform>
       <name>Steam</name>
       <link>http://steampowered.com/</link>
     </platform>
-    <platform>
-      <name>Inc New Store (TBA)</name>
-    </platform>
   </platforms>
 
-  <!-- Show the price of your product. Try to be exhaustive, it will be helpful for a reviewer. -->
+  <!-- Show the price of your product. Try to be exhaustive, it will be helpful for a reviewer. 
   <prices>
     <price>
       <currency>EUR</currency>
@@ -100,6 +92,7 @@
       <value>2300</value>
     </price>
   </prices>
+  -->
 
   <!-- ## Relations -->
 
@@ -128,19 +121,19 @@
     You can have as many relations as you want. You can use it to show DLCs, expansions, sequels, prequels, etc.
 
     **Warning**: you need to rebuild the presskit to see the changes.
-  -->
+  
   <relations>
     <relation>
       <type>DLC</type>
       <product>My Super Game: Ultimate Edition</product>
     </relation>
   </relations>
-
+-->
   <!-- ## Description & History -->
 
   <!-- Describe your product here. Be brief. -->
   <description>
-    Here goes a quick description of your product or game. Be concise and explain in very few words the concept or the gameplay and why it's really cool and why everyone should use or play it.
+    Command animal armies and conquer territories in this turn-based strategy game where every attack can backfire! Master blunder-style combat, where failed strikes let defenders capture your lands. Bold moves win big in this high-stakes battle for cunning victory.
   </description>
 
   <!--
@@ -156,7 +149,7 @@
     You can see an example of the `<histories>` block in the company page.
   -->
   <history>
-    Add some storytelling here. Not the scenario of your game, but rather some backgrounds behind the creation process: why are you making this game? Most projects starts with a cool story.
+    This is an hommage to my childhood: Combat rules created 25 years ago by father and son wanting more exciting Risk. Family experiment now digitized for strategy lovers.
   </history>
 
   <!-- ## Features -->
@@ -249,7 +242,7 @@
     You got awards for this product? Great! Put them here.
 
     **Optional.**
-  -->
+  
   <awards>
     <award>
       <description>Game of the year without a doubt</description>
@@ -264,14 +257,14 @@
       <info>Deep into the woods (Forest), 31 March, 2014</info>
     </award>
   </awards>
-
+-->
   <!--
     Quotes are used to show the appreciation of your users.
 
     Show something important, something nice, or something funny, for example.
 
     **Optional.**
-  -->
+  
   <quotes>
     <quote>
       <description>This is my favorite game of all time.</description>
@@ -292,7 +285,7 @@
       <link>http://steam.review/</link>
     </quote>
   </quotes>
-
+-->
   <!--
     Need to link to a resource? A small product? An RSS feed? An OST?
 
@@ -301,7 +294,7 @@
     Put those here, in the `<additionals>` tag.
 
     **Optional.**
-  -->
+  
   <additionals>
     <additional>
       <title>Original Soundtrack (OST)</title>
@@ -314,7 +307,7 @@
       <link>http://pixelnest.io/journal/</link>
     </additional>
   </additionals>
-
+-->
   <!-- ## About -->
 
   <!--
@@ -329,7 +322,7 @@
     Most of the time, you should link that to the <partner> tag above, if you want to explain a partner a bit more. But you could use this section for other purpose.
 
     The <link> tag is optional.
-  -->
+  
   <abouts>
     <about>
       <title>Pixelnest Studio</title>
@@ -341,13 +334,15 @@
       <description>This is a fake company to illustrate the fact that you can have multiple about tags in your product page.</description>
     </about>
   </abouts>
-
+-->
   <!-- ## Team & Contacts -->
 
   <!--
-    This is for the product team.
+    This is for your people.
 
-    Add yourself, of course, but also your collaborators, freelancers and/or partners for example.
+    Add yourself, of course, but also your **frequent** collaborators for example.
+
+    If a collaborator has only worked on one product, add her/him on this product page instead.
 
     The `<role>` tag can be anything you want. But we recommend to, at least, put the company name for the founders/employees. This will distinguish this person from the external collaborators.
 
@@ -355,48 +350,51 @@
   -->
   <credits>
     <credit>
-      <person>Krokmou</person>
-      <role>Bot Leader, Game Designer, Pixelnest Studio</role>
+      <person>Miloš Vlainić</person>
+      <role>Founder, Game Director (aka Do Everything Else)</role>
     </credit>
     <credit>
-      <person>Hiccup</person>
-      <role>Developer, Pixelnest Studio</role>
+      <person>Ljubomir Debeljački</person>
+      <role>Illustrator and Animator</role>
     </credit>
     <credit>
-      <person>Astrid</person>
-      <website>http://www.astridsupergame.com</website>
-      <role>Musician, Freelancer</role>
+      <person>Miloš Jocić</person>
+      <role>Narrative Writer and Game Designer</role>
+    </credit>
+    <credit>
+      <person>Svetozar Nešić</person>
+      <role>Music Composer</role>
     </credit>
   </credits>
 
   <!--
     Add more contact information.
 
-    Add links to your product social accounts, as well as mail specific to this product. And the website.
+    For the company page, you can repeat your social network accounts, as well as another contact mail address, or your company website.
 
     For each item, pick one between a `<link>` and `<mail>` tag.
   -->
   <contacts>
     <contact>
       <name>Inquiries</name>
-      <mail>mysupergame@pizzaburger.studio</mail>
+      <mail>milos.fusion29@gmail.com</mail>
     </contact>
     <contact>
       <name>Twitter</name>
       <link>
-        https://twitter.com/pizzaburgerstudio
+        https://x.com/fusion29studio
       </link>
     </contact>
     <contact>
-      <name>Facebook</name>
+      <name>Reddit</name>
       <link>
-        https://facebook.com/pizzaburgerstudio
+        https://www.reddit.com/user/Wlakinsson/
       </link>
     </contact>
     <contact>
-      <name>Web</name>
+      <name>Itch.io</name>
       <link>
-        http://mysupergame.pizzaburger.studio/
+        https://fusion29dev.itch.io/
       </link>
     </contact>
   </contacts>
