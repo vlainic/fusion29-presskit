@@ -31,7 +31,7 @@
 
   <!-- Begin with your product name, website, and miscellaneous information. -->
   <title>Animal Times</title>
-  <website>https://store.steampowered.com/app/3915540/Animal_Times/</website>
+  <website>https://www.indiedb.com/games/animal-times</website>
 
   <!-- You can also add an URL to a request page for this product. A button will be displayed on the page. -->
   <press-copy-request>
@@ -69,7 +69,7 @@
   <platforms>
     <platform>
       <name>Steam</name>
-      <link>http://steampowered.com/</link>
+      <link>https://store.steampowered.com/app/3915540/Animal_Times/</link>
     </platform>
   </platforms>
 
@@ -132,8 +132,8 @@
   <!-- ## Description & History -->
 
   <!-- Describe your product here. Be brief. -->
-  <description>
-    Command animal armies and conquer territories in this turn-based strategy game where every attack can backfire! Master blunder-style combat, where failed strikes let defenders capture your lands. Bold moves win big in this high-stakes battle for cunning victory.
+  <description>Animal Times is a Risk-inspired strategy game with completely overhauled rules!
+    <br>Command animal armies and conquer territories in this turn-based strategy game where every attack can backfire! Master blunder-style combat, where failed strikes let defenders capture your lands. Bold moves win big in this high-stakes battle for cunning victory.  
   </description>
 
   <!--
@@ -149,7 +149,7 @@
     You can see an example of the `<histories>` block in the company page.
   -->
   <history>
-    This is an hommage to my childhood: Combat rules created 25 years ago by father and son wanting more exciting Risk. Family experiment now digitized for strategy lovers.
+    The games is an hommage to my childhood: Combat rules created 25 years ago by father and son wanting more exciting Risk. So it should serve both, Risk-lovers that want fresh gameplay and new challenges, and Risk-haters as Animal Times might fix what Risk did wrong (in my opinion).
   </history>
 
   <!-- ## Features -->
@@ -159,26 +159,33 @@
 
     Focus on what is really important and is a key aspect of it.
   -->
-  <features>
-    <feature>
-      List some "Key Sellings Points" to grab player's attention.
-    </feature>
-    <feature>
-      Don't be too generic ("pixel art graphics!"), don't be too pretentious ("most incredible game experience!").
-    </feature>
-    <feature>
-      Also, people like numbers, so you can add some (450 weapons, hundreds of levels, dozens of hours of playtime!).
-    </feature>
-    <feature>
-      Need ideas? Maybe explain some game modes?
-    </feature>
-    <feature>
-      It would be a nice place to say something about multiplayer, if you have some.
-    </feature>
-    <feature>
-      Have you translated your game? (You probably should btw.)
-    </feature>
-  </features>
+<features>
+  <feature>
+    Blunder-style combat system with subtraction-based damage - 
+    every die number matters, not just who rolls higher
+  </feature>
+  <feature>
+    Dramatic comeback mechanics: "Attack of Despair" mode activates when 
+    you're down to your last units, enabling desperate all-or-nothing strikes
+  </feature>
+  <feature>
+    Defender counter-attacks: failed invasions can result in your own 
+    territory being conquered - blunders have real consequences
+  </feature>
+  <feature>
+    Custom world map with 6 continents inspired by the animal avatars.
+  </feature>
+  <feature>
+    Multiplayer battles with bot opponents of varying difficulty 
+    (2 bot difficulties are available, more to come)
+  </feature>
+  <feature>
+    Mission system with strategic objectives beyond simple whole World conquest
+  </feature>
+  <feature>
+    Built-in tutorial system to learn the unique combat rules at your own pace
+  </feature>
+</features>
 
   <!-- ## Trailers -->
 
@@ -197,20 +204,8 @@
   -->
   <trailers>
     <trailer>
-      <name>Release Trailer</name>
-      <youtube>EtXajayBLzw</youtube>
-    </trailer>
-    <trailer>
-      <name>Gameplay Video #2</name>
-      <youtube>EPNK1j3TMjU</youtube>
-    </trailer>
-    <trailer>
-      <name>Early Access Trailer</name>
-      <youtube>EtyQMcc19xY</youtube>
-    </trailer>
-    <trailer>
-      <name>Short gameplay preview: Burger vs Pizza</name>
-      <download>https://github.com/pixelnest/presskit.html</download>
+      <name>Post-rebranding Trailer</name>
+      <youtube>BDGUpYnJh1Q</youtube>
     </trailer>
   </trailers>
 
@@ -228,12 +223,12 @@
     **Warning: widgets import many scripts and assets. This may have a penalty on your page size and responsiveness.**
   -->
   <widgets>
-    <appstore>950812012</appstore>
-    <playstore>com.noodlecake.altosadventure</playstore>
-    <steam>347160</steam>
-    <humble>steredenn/7SDLfk23hw</humble>
-    <itch>27992</itch>
-    <bandcamp>1135613467</bandcamp>
+    <!--<appstore>950812012</appstore>-->
+    <!--<playstore>com.noodlecake.altosadventure</playstore>-->
+    <steam>3915540</steam>
+    <!--<humble>steredenn/7SDLfk23hw</humble>-->
+    <!--<itch>27992</itch>-->
+    <!--<bandcamp>1135613467</bandcamp>-->
   </widgets>
 
   <!-- ## Awards, quotes & links -->

@@ -79,17 +79,9 @@
   <!-- ## Description & History -->
 
   <!-- The description is a simple short block to describe your company or studio. Be brief. -->
-  <description><![CDATA[
-We are group of experts in our own fields:
-<ul>
-<li>Data Scientist [ex-Physicst]</li>
-<li>Illustrator and Animator</li>
-<li>Literature Professor and Writer</li>
-<li>Composer and Musician</li>
-</ul>
-<newline>
-...and we are gonna to try ourselves in upcoming years in making video games :)<newline>
-]]></description>
+  <description>
+  We are group of experts in our own fields: (a) Data Scientist [ex-Physicst], (b) Illustrator and Animator, (c) Literature Professor and Writer, (d) Composer and Musician. And we are gonna to try ourselves in upcoming years in making video games :).
+  </description>
 
   <!--
     Tell your story with the `<history>` tag.
@@ -230,7 +222,7 @@ We are group of experts in our own fields:
   <credits>
     <credit>
       <person>Miloš Vlainić</person>
-      <role>Founder, Game Director (aka Do Everything Else)</role>
+      <role>Founder, Game Director (aka Do Whatever is Needed)</role>
     </credit>
     <credit>
       <person>Ljubomir Debeljački</person>
