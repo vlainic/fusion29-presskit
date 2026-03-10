@@ -35,7 +35,7 @@
 
   <!-- You can also add an URL to a request page for this product. A button will be displayed on the page. -->
   <press-copy-request>
-    http://pizzaburger.studio/mysupergame/request/ <!--TO-DO: Add Keymailer link-->
+    https://www.game.press/g/games/e285f780?share_id=e7832b9
   </press-copy-request>
 
   <!--
@@ -132,8 +132,7 @@
   <!-- ## Description & History -->
 
   <!-- Describe your product here. Be brief. -->
-  <description>Animal Times is a Risk-inspired strategy game with completely overhauled rules!
-    <br>Command animal armies and conquer territories in this turn-based strategy game where every attack can backfire! Master blunder-style combat, where failed strikes let defenders capture your lands. Bold moves win big in this high-stakes battle for cunning victory.  
+  <description>Animal Times is a Risk-inspired strategy game with completely overhauled rules! Command animal armies and conquer territories in this turn-based strategy game where every attack can backfire! Master blunder-style combat, where failed strikes let defenders capture your lands. Bold moves win big in this high-stakes battle for cunning victory.
   </description>
 
   <!--
@@ -231,7 +230,7 @@
     <!--<bandcamp>1135613467</bandcamp>-->
   </widgets>
 
-  <!-- ## Awards, quotes & links -->
+  <!-- ## Here are some streams of the game: -->
 
   <!--
     You got awards for this product? Great! Put them here.
@@ -281,28 +280,19 @@
     </quote>
   </quotes>
 -->
-  <!--
-    Need to link to a resource? A small product? An RSS feed? An OST?
-
-    A press release?
-
-    Put those here, in the `<additionals>` tag.
-
-    **Optional.**
-  
   <additionals>
     <additional>
-      <title>Original Soundtrack (OST)</title>
-      <description>Composed by an awesome musician. Listen for free, download for $3 at</description>
-      <link>http://zandernoriega.bandcamp.com/album/steredenn-original-soundtrack</link>
+      <title>Animal Times Stream by Jay</title>
+      <description>Watch a full gameplay stream on YouTube.</description>
+      <link>https://www.youtube.com/watch?v=y1qGxqFwsyc</link>
     </additional>
     <additional>
-      <title>Release announcement</title>
-      <description>Announcement are exciting, so we usually make blog posts or news about it on</description>
-      <link>http://pixelnest.io/journal/</link>
+      <title>Animal Times by Kikord (in French)</title>
+      <description>Watch another Animal Times gameplay stream on YouTube.</description>
+      <link>https://www.youtube.com/watch?v=rGT-1S_9y5k</link>
     </additional>
   </additionals>
--->
+
   <!-- ## About -->
 
   <!--
